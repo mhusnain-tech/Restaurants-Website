@@ -10,7 +10,7 @@ A professional, high-quality restaurant website featuring a dynamic menu and vid
 ## 📸 Website Preview
 Here is a glimpse of the project:
 
-![Main Page Preview](images/Resturantback.jpg)
+![Main Page Preview](images/website-main-page.png)
 
 ---
 
